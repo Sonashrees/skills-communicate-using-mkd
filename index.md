@@ -14,7 +14,8 @@ Initializing empty repository
 var init = "Hello World"
 ```
 
-python
+```python
 n = 6
 m = 6
 m+n = 12
+```
