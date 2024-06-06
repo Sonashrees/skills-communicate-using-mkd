@@ -22,5 +22,5 @@ m+n = 12
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
-- [ ] This is todays task
-- [ ] this is my checklist
+- [X] This is todays task
+- [X] this is my checklist
