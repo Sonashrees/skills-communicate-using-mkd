@@ -19,3 +19,8 @@ n = 6
 m = 6
 m+n = 12
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] This is todays task
+- [ ] this is my checklist
